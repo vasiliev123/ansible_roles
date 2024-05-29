@@ -1,0 +1,6 @@
+- name: Install packages
+  package:
+    name:
+      - htop
+      - python3-pip
+    state: present
