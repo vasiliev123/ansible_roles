@@ -1,0 +1,4 @@
+---
+deployment_path: '~/Infrastructure'
+git_repository: 'https://github.com/vasilievpl123/Infrastructure.git'
+git_branch: 'master'

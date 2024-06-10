@@ -1,6 +1,8 @@
-- name: Install packages
-  package:
-    name:
+---
+# tasks file for packages
+- name: Install needed packages
+  ansible.builtin.package:
+    name: 
       - htop
       - python3-pip
     state: present
