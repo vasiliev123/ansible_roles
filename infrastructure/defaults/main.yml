@@ -1,4 +1,4 @@
 ---
-deployment_path: '~/Infrastructure'
-git_repository: 'https://github.com/vasilievpl123/Infrastructure.git'
-git_branch: 'master'
+deployment_path: '~/panda/Infrastructure'
+git_repository: 'https://github.com/vasiliev123/Infrastructure.git'
+git_branch: 'main'
